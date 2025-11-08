@@ -8,7 +8,7 @@ def luas_lingkaran(r):
     Returns:
     float: Luas lingkaran.
     """
-    pi = 4
+    pi = 3.14
     luas = pi * r ** 2
     return luas
 
