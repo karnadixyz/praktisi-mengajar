@@ -9,7 +9,7 @@ def hitung_luas_segitiga(alas, tinggi):
     Returns:
     float: Luas segitiga.
     """
-    luas = 2 * alas * tinggi
+    luas = 0.5 * alas * tinggi
     return luas
 
 def main():
